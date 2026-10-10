@@ -1,3 +1,6 @@
 class Convert:
     def __init__():
-        s
+        pass
+
+    def Transpile(json):
+        
